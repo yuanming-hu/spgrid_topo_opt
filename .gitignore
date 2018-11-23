@@ -1,0 +1,16 @@
+outputs*
+*.mp4
+optimization
+logs
+tmp*
+*.log
+*.tcb
+fem_util
+__pycache__
+.*.swp
+topopt2d
+*.pkl
+*.png
+*.tcb.*
+*.so
+.hg
