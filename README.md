@@ -1,3 +1,5 @@
+<img src="https://github.com/yuanming-hu/public_files/raw/master/graphics/topopt/bird-beak.gif">
+
 # Narrow-Band Topology Optimization on SPGrid
 ## **[[Paper]](http://taichi.graphics/wp-content/uploads/2018/10/narrowband_topopt.pdf) [[Video]](https://www.youtube.com/watch?v=H2OxHdQEQCQ)**
 
@@ -16,7 +18,6 @@ By
 
 
 
-<img src="https://github.com/yuanming-hu/public_files/raw/master/graphics/topopt/bird-beak.gif">
 <img src="https://github.com/yuanming-hu/public_files/raw/master/graphics/topopt/bridge-density.gif" width="800px"><img src="https://github.com/yuanming-hu/public_files/raw/master/graphics/topopt/bridge-zoom.gif"  width="800px">
 
 
