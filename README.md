@@ -21,9 +21,9 @@ By
 <img src="https://github.com/yuanming-hu/public_files/raw/master/graphics/topopt/bridge-density.gif" width="800px"><img src="https://github.com/yuanming-hu/public_files/raw/master/graphics/topopt/bridge-zoom.gif"  width="800px">
 
 
-## Installation
+## Installation (Tested on Ubuntu 16.04/18.04/Arch Linux)
  - Install [`taichi`](https://github.com/yuanming-hu/taichi/) first and put this in the `projects` folder.
- - Build the FEM solver: `cd solver && make` (Note: this needs `icc`. Please install if you don't have it.)
+ - Build the FEM solver: `cd solver && make` (Note: this needs Intel `icc` and `mkl`. Please install if you don't have it.)
  - Set the following environment variables according to your machine.
  For example,
  ```
