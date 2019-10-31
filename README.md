@@ -22,7 +22,7 @@ By
 
 
 ## Installation (Tested on Ubuntu 16.04/18.04/Arch Linux. Windows/OS X not supported.)
- - Install [`taichi`](https://github.com/yuanming-hu/taichi/) first and put this in the `projects` folder.
+ - Install [`taichi (legacy branch)`](https://taichi.readthedocs.io/en/latest/installation.html#ubuntu-arch-linux-and-mac-os-x) first and put this in the `projects` folder.
  - Build the FEM solver: `cd solver && make` (Note: this needs Intel `icc` and `mkl`. Please install if you don't have it.)
  - Set the following environment variables according to your machine.
  For example,
