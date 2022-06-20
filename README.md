@@ -1,7 +1,7 @@
 <img src="https://github.com/yuanming-hu/public_files/raw/master/graphics/topopt/bird-beak.gif">
 
 # Narrow-Band Topology Optimization on SPGrid
-## **[[Paper]](http://taichi.graphics/wp-content/uploads/2018/10/narrowband_topopt.pdf) [[Video]](https://www.youtube.com/watch?v=H2OxHdQEQCQ)**
+## **[[Paper]](https://cdfg.csail.mit.edu/assets/files/narrowband_topopt.pdf) [[Video]](https://www.youtube.com/watch?v=H2OxHdQEQCQ)**
 
 **Narrow-Band Topology Optimization on a Sparsely Populated Grid**, ACM Transactions on Graphics (SIGGRAPH Asia 2018).
 
